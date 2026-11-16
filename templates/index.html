@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ScamShield AI - Call Scam Detector</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>🛡️ ScamShield AI</h1>
+        <p>Paste any suspicious call transcript here. We support all languages.</p>
+        <textarea id="callText" placeholder="Example: Hello, I am calling from SBI Bank, your account will be closed in 2 hours, please share your OTP..."></textarea>
+        <button onclick="checkScam()">Check Now - Is This a Scam?</button>
+        <div id="result" style="display:none;">
+            <h2 id="resultTitle"></h2>
+            <div class="score-bar">
+                <div id="scoreFill"></div>
+            </div>
+            <p id="riskText"></p>
+            <h3>Why Do We Think So?</h3>
+            <ul id="reasonsList"></ul>
+            <div class="action-box">
+                <b>What Should You Do:</b> <span id="actionText"></span>
+            </div>
+        </div>
+        <div class="demo-btns">
+            <p>Try a demo to test:</p>
+            <button onclick="fillDemo1()">Demo 1: Bank Scam</button>
+            <button onclick="fillDemo2()">Demo 2: Safe Call</button>
+        </div>
+    </div>
+    <script src="/static/script.js"></script>
+</body>
+</html>
