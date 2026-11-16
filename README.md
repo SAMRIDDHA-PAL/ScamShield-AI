@@ -13,6 +13,7 @@ Built for Arthaton 2026 - Solo Project.
 
 ## Tech Stack
 Python, Flask, HTML, CSS, JavaScript, Google Gemini AI
+AI Model: Google Gemini 2.0 Flash (via Gemini API) + Offline Rule-based Fallback
 
 ## How to Run
 1. pip install -r requirements.txt
