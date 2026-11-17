@@ -21,3 +21,7 @@ AI Model: Google Gemini 2.0 Flash (via Gemini API) + Offline Rule-based Fallback
 2. Create .env file with GEMINI_API_KEY=your_key
 3. python app.py
 4. Open http://127.0.0.1:5000
+
+
+## Demo Video
+https://youtu.be/isdDgSIgaLI?si=CY0FJ7czXiGilVp1
