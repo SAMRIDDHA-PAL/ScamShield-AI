@@ -25,3 +25,7 @@ AI Model: Google Gemini 2.0 Flash (via Gemini API) + Offline Rule-based Fallback
 
 ## Demo Video
 https://youtu.be/isdDgSIgaLI?si=CY0FJ7czXiGilVp1
+
+
+## Live Demo
+https://scamshield-ai-1-v4va.onrender.com/
