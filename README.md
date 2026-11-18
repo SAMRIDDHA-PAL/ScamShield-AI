@@ -29,3 +29,10 @@ https://youtu.be/isdDgSIgaLI?si=CY0FJ7czXiGilVp1
 
 ## Live Demo
 https://scamshield-ai-1-v4va.onrender.com/
+
+
+## 👨‍💻 Author
+
+**Samriddha Pal**
+- B.Tech CSE Student
+- GitHub: [@SAMRIDDHA-PAL](https://github.com/SAMRIDDHA-PAL)
