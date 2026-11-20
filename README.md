@@ -1,8 +1,6 @@
 # 🛡️ ScamShield AI
 
-ScamShield AI protects people from fraud calls. Paste any suspicious call transcript, and our AI tells you in seconds if it's a SCAM, SUSPICIOUS, or SAFE.
-
-Built for Arthaton 2026 - Solo Project.
+ScamShield AI protects people from fraud calls. Paste any suspicious call transcript, and our AI tells you in seconds if it's a SCAM, SUSPICIOUS, or SAFE.
 
 ## Features
 - Paste any call transcript in any language
