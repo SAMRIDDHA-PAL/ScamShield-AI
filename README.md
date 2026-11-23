@@ -22,7 +22,7 @@ AI Model: Google Gemini 2.0 Flash (via Gemini API) + Offline Rule-based Fallback
 
 
 ## Demo Video
-https://youtu.be/isdDgSIgaLI?si=CY0FJ7czXiGilVp1
+https://youtu.be/5ivitw4LJxc?si=-JqR86O5Vkd8lfqt
 
 
 ## LiveDemo
